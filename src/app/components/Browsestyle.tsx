@@ -1,7 +1,7 @@
-import React from 'react'
-import Image from 'next/image'
-import a from '../../../public/a.png'
-import c from '../../../public/c.png'
+import React from "react"
+import Image from "next/image"
+import a from "../../../public/a.png"
+import c from "../../../public/c.png"
 import { IoMdStar } from "react-icons/io";
 import { BiSolidRightTopArrowCircle } from "react-icons/bi";
 import { TfiEmail } from "react-icons/tfi";
