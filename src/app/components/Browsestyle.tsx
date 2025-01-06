@@ -55,7 +55,7 @@ const Browsestyle = () => {
                     <h1 className='font-bold  text-[20px] leading-[22px]'>Sarah M.</h1>
                     <BiSolidRightTopArrowCircle  className='w-[19.5px] h-[19.5px] text-white bg-[#01AB31] '/>
                 </div>
-                <p className='text-[15px] leading-[22px] font-normal text-justify mt-3 opacity-50'>"I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”</p>
+                <p className='text-[15px] leading-[22px] font-normal text-justify mt-3 opacity-50'>"I m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I ve bought has exceeded my expectations.”</p>
 
               </div>
           </div>
@@ -72,7 +72,7 @@ const Browsestyle = () => {
                     <h1 className='font-bold  text-[20px] leading-[22px]'>Sarah M.</h1>
                     <BiSolidRightTopArrowCircle  className='w-[19.5px] h-[19.5px] text-white bg-[#01AB31] '/>
                 </div>
-                <p className='text-[15px] leading-[22px] font-normal text-justify mt-3 opacity-50'>"I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”</p>
+                <p className='text-[15px] leading-[22px] font-normal text-justify mt-3 opacity-50'>"I m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I ve bought has exceeded my expectations.”</p>
 
               </div>
           </div>
@@ -89,7 +89,7 @@ const Browsestyle = () => {
                     <h1 className='font-bold  text-[20px] leading-[22px]'>Sarah M.</h1>
                     <BiSolidRightTopArrowCircle  className='w-[19.5px] h-[19.5px] text-white bg-[#01AB31] '/>
                 </div>
-                <p className='text-[15px] leading-[22px] font-normal text-justify mt-3 opacity-50'>"I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”</p>
+                <p className='text-[15px] leading-[22px] font-normal text-justify mt-3 opacity-50'>"I m blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I ve bought has exceeded my expectations.”</p>
 
               </div>
           </div>
